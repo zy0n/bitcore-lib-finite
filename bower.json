@@ -1,0 +1,31 @@
+{
+  "name": "bitcore-lib-finite",
+  "main": "./bitcore-lib-finite.min.js",
+  "version": "0.15.2",
+  "homepage": "https://github.com/zy0n/bitcore-lib-finite",
+  "authors": [
+    "Finite", "BitPay, Inc."
+  ],
+  "description": "A pure, powerful core for your finite project.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "finite",
+    "bitcoin",
+    "bitcore",
+    "btc",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "CONTRIBUTING.md",
+    "gulpfile.js",
+    "lib",
+    "index.js",
+    "karma.conf.js",
+    "npm-shrinkwrap.json",
+    "test"
+  ]
+}
